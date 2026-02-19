@@ -111,7 +111,7 @@ const Explore = () => {
   return (
     <div>
       {/* Hero Section */}
-      <section className="hero-section bg-[url('https://images.unsplash.com/photo-1590095888206-413b6d7f7e76?auto=format&fit=crop&w=1920&q=80')]">
+      <section className="hero-section bg-[url('https://images.wallpapersden.com/image/download/mount-fuji-nightscape_bGppbGyUmZqaraWkpJRmbmdlrWZlbWU.jpg')]">
         <div className="hero-content">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 font-heading">
             Explore Maharashtra
